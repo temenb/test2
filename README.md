@@ -95,11 +95,4 @@ The rest of the architecture remains unchanged.
     InMemoryTaskRepository.php
   /Services
     TaskService.php
-/tests
-  /Feature
-    TaskApiTest.php
-  /Unit
-    TaskApiTest.php
-/routes
-  api.php
 ```
